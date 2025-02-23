@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Gamepad_seesaw	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+getVersion	KEYWORD2
+analogRead	KEYWORD2
+pinModeBulk	KEYWORD2
+digitalReadBulk	KEYWORD2
+setGPIOInterrupts	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+SEESAW_GAMEPAD_ADDRESS	LITERAL1
